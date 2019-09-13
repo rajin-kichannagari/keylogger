@@ -6,6 +6,7 @@ Double-click the python file and it should be running. Check the text file for t
 
 ## Ending the program
 .pyw files have no console, so stopping the program is a little harder.
-Here's how:
 
+* First, right-click the taskbar and go to Task Manager
+* Under Background Proccess, 
 
